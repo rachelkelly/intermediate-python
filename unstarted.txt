@@ -1,0 +1,64 @@
+Welcome to Class
+Bits of Python History
+Accessing IPython Notebook on the Cloud
+Downloading your IPython notebooks
+IDEs and Productivity Tools
+The Python Environment
+Namespaces in Python
+Config Files
+Visual Python
+xkcd import antigravity
+More Python Data Types
+Dicts and Sets
+Advanced Slicing
+Interacting with the Interpreter
+It's not the Snake
+Responding to Python Operators
+Callable Instances
+Iterables vs. Iterators
+Generators
+Writing Iterable Objects
+Comprehensions and Generator Expressions
+List Comprehensions
+Set Comprehensions
+Dict Comprehensions
+Generator Expressions
+Importing Modules
+import ... as ...
+from ... import
+Structuring Packages
+Relative Imports
+Reloading Modules
+More About Functions
+The Function API - Signatures and Specifications
+Functions as Function Arguments
+Generality of Function Return Values
+Introducing Decorators
+Storing, Retrieving and Handling Data
+ORM Principles and Sample Code
+Elementary SQL
+Struct Module - Handling Binary Data
+Simple Networking
+The Requests Library
+Using JSON Data
+Web Frameworks
+Python for Scientific and Financiap Applications
+Numpy
+SciPy
+Pandas
+matplotlib
+Decimal
+Data Analysis Modules
+Natural Language Analysis
+Testing Your Code
+Unit Testing
+Mock Objects
+PEP 8 Python Style
+Names to Avoid, and Why
+A Look at Internal CPython Interpreter Code
+Goodbye!
+How These Lessons Were Created
+The Python Software Foundation
+EuroPython
+PyCons
+import this

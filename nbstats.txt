@@ -1,0 +1,18 @@
+                                       ------ code ------ ---- markdown ----
+                                       cells  lines chars cells  lines chars
+      bytearrays-and-bytestrings.ipynb   18     27    795   14     28  4,980
+                context-managers.ipynb    8     12    429    1      1     59
+             decoding-to-unicode.ipynb   22     26    658    2      2    134
+           encoding-from-unicode.ipynb   10     33    691   12     20  3,318
+              handling-filenames.ipynb   18     53  1,789   14     20  3,248
+                how-import-works.ipynb   15     26    702    9     19  3,037
+introducing-the-ipython-notebook.ipynb   10      6    150    1      1     59
+                 monkey-patching.ipynb    8     21    522    1      1     59
+       reading-and-writing-files.ipynb   17     67  1,246    1      1     59
+             regular-expressions.ipynb   45     75  1,828    1      1     59
+                         slicing.ipynb   16     26    738   13     33  4,857
+                the-python-dbapi.ipynb   19     73  2,584   22     63  9,021
+   the-python-iteration-protocol.ipynb    6     35    816    7     46  3,182
+                          tuples.ipynb   11     26    930   14     69  5,815
+                 what-is-unicode.ipynb    8      7    281    7     24  5,786
+                                TOTALS  231    513 14,159  119    329 43,673
