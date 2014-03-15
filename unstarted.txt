@@ -9,14 +9,12 @@ Config Files
 Visual Python
 xkcd import antigravity
 More Python Data Types
-Dicts and Sets
 Advanced Slicing
 Interacting with the Interpreter
 It's not the Snake
 Responding to Python Operators
 Callable Instances
 Iterables vs. Iterators
-Generators
 Writing Iterable Objects
 Comprehensions and Generator Expressions
 List Comprehensions
@@ -40,7 +38,6 @@ Elementary SQL
 Struct Module - Handling Binary Data
 Simple Networking
 The Requests Library
-Using JSON Data
 Web Frameworks
 Python for Scientific and Financiap Applications
 Numpy
@@ -52,7 +49,6 @@ Data Analysis Modules
 Natural Language Analysis
 Testing Your Code
 Unit Testing
-Mock Objects
 PEP 8 Python Style
 Names to Avoid, and Why
 A Look at Internal CPython Interpreter Code
