@@ -33,8 +33,8 @@ Functions as Function Arguments
 Generality of Function Return Values
 Introducing Decorators
 Storing, Retrieving and Handling Data
-ORM Principles and Sample Code
 Elementary SQL
+ORM Principles and Sample Code
 Struct Module - Handling Binary Data
 Simple Networking
 The Requests Library
