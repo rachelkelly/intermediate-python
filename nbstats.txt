@@ -1,24 +1,32 @@
-                                         ------ code ------ ---- markdown ----
-                                         cells  lines chars cells  lines chars
-                               Untitled0    4      9    278    0      0      0
-              bytearrays-and-bytestrings   18     27    795   14     28  4,980
-                        context-managers    8     12    429    1      1     59
-                     decoding-to-unicode   22     26    658    2      2    134
-                          dicts-and-sets   35     40    732    1      1     59
-                   encoding-from-unicode   10     33    691   12     20  3,318
-                     generator-functions   14     27    462    1      1     59
-                      handling-filenames   18     53  1,789   14     20  3,248
-                        how-import-works   16     27    707    9     19  3,037
-        introducing-the-ipython-notebook   12     12    141    1      1     59
-                            mock-objects   26     19    432    1      1     59
-                         monkey-patching    8     21    522    1      1     59
-               reading-and-writing-files   17     67  1,246    1      1     59
-                     regular-expressions   45     75  1,828    1      1     59
-                                 slicing   17     29    745   13     33  4,857
-                        the-python-dbapi   19     73  2,584   22     63  9,021
-           the-python-iteration-protocol    9     40  1,009    7     46  3,182
-                                  tuples   12     27    957   15     62  5,534
-                         using-json-data    8     33    756    8     48  4,310
-what-happens-when-the-interpreter-starts    0      0      0    2      7    342
-                         what-is-unicode    9      8    279    8     25  5,967
-                                  TOTALS  327    658 17,040  134    381 48,402
+                                               ------ code ------ ---- markdown ----
+                                               cells  lines chars cells  lines chars
+                                     Untitled0    4      9    281    0      0      0
+                                     Untitled1    2      3    132    0      0      0
+                    bytearrays-and-bytestrings   18     27    795   14     28  4,980
+                              context-managers    8     12    429    1      1     59
+                           decoding-to-unicode   22     26    658    2      2    134
+                                dicts-and-sets   65     80  1,768    1      1     59
+                         encoding-from-unicode   10     33    691   12     20  3,318
+                                free-geek-move    1      0      0    1      5    358
+                           generator-functions   14     27    462    1      1     59
+                            handling-filenames   18     53  1,789   14     20  3,248
+                              how-import-works    4      5    135    4      9  1,587
+                             importing-modules   19     42  1,200    8     12  2,015
+                        introducing-decorators   33     72  1,430    1      1     59
+              introducing-the-ipython-notebook   10     18    288    4      4    205
+                                  mock-objects   26     19    432    1      1     59
+                               monkey-patching    8     21    522    1      1     59
+                          more-about-functions   18     25    774    2      2    359
+                        names-to-avoid-and-why   12     12    193    3      3    161
+                     reading-and-writing-files   17     67  1,246    1      1     59
+                           regular-expressions   45     75  1,828    1      1     59
+                                       slicing   17     29    745   13     33  4,857
+the-function-api-signatures-and-specifications   11     40  1,799    5      5    865
+                              the-python-dbapi   19     73  2,584   22     63  9,021
+                 the-python-iteration-protocol    9     40  1,009    7     46  3,182
+                          the-requests-library    2      1     15    1      1     59
+                                        tuples   12     27    957   15     62  5,534
+                               using-json-data    8     33    756    8     48  4,310
+      what-happens-when-the-interpreter-starts    0      0      0    2      7    342
+                               what-is-unicode    9      8    279    8     25  5,967
+                                        TOTALS  441    877 23,197  153    403 50,974

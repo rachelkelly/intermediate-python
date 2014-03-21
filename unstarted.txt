@@ -21,23 +21,18 @@ List Comprehensions
 Set Comprehensions
 Dict Comprehensions
 Generator Expressions
-Importing Modules
 import ... as ...
 from ... import
 Structuring Packages
 Relative Imports
 Reloading Modules
-More About Functions
-The Function API - Signatures and Specifications
 Functions as Function Arguments
 Generality of Function Return Values
-Introducing Decorators
 Storing, Retrieving and Handling Data
 Elementary SQL
 ORM Principles and Sample Code
 Struct Module - Handling Binary Data
 Simple Networking
-The Requests Library
 Web Frameworks
 Python for Scientific and Financiap Applications
 Numpy
@@ -50,7 +45,6 @@ Natural Language Analysis
 Testing Your Code
 Unit Testing
 PEP 8 Python Style
-Names to Avoid, and Why
 A Look at Internal CPython Interpreter Code
 Goodbye!
 How These Lessons Were Created
